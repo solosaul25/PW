@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="/bootstrap.css" type="text/css" rel="stylesheet"/>
+    <link href="/pregunta1.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+    <div class="container">
+        <div class="parte1">
+            <h1>Información</h1>
+            <span>Nombre:</span>
+            <br/>
+            <input type="text">
+            <br/>
+            <span>Apellido:</span>
+            <br/>
+            <input type="text">
+            <br/>
+            <span>Año de nacimiento:</span>
+            <br/>
+            <input type="text">
+            <br/>
+            <span>Edad:</span>
+            <br/>
+            <input type="text">
+            <br/>
+        </div>
+        <div class="parte2">
+        <img src="https://placehold.co/300x300"/>
+        </div>>
+    </div>  
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed suscipit ex. Mauris iaculis pulvinar risus, 
+        id iaculis ante luctus eget. Nulla vestibulum ligula dictum nibh pulvinar pharetra. Aliquam eu odio iaculis, lacinia tellus 
+        et, consequat nisi. Maecenas elementum massa et finibus dignissim. Nulla rhoncus, ante id rhoncus volutpat, est tellus 
+        tincidunt massa, nec fermentum sem leo non lorem. Vestibulum bibendum aliquam dolor, sed feugiat felis varius sit amet. 
+        Integer vel diam at sapien ornare ultrices et vitae nisl. In ut condimentum arcu. Nullam sollicitudin porta volutpat. 
+        Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur eu lacinia ipsum, ac 
+        commodo tellus. Vestibulum feugiat condimentum metus, volutpat scelerisque dui. Quisque sed turpis ac quam efficitur 
+        ultricies.
+    </p>  
+</body>
+</html>
